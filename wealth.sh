@@ -3,7 +3,7 @@
 # 房间内 100 个人，每人有 100 块
 # 每分钟随机给另一个人 1 块
 # 最后这个房间内的财富分布是怎样的？
-# http://www.baidu.com
+# spark 命令来自 https://github.com/holman/spark
 
 declare -ia p
 
